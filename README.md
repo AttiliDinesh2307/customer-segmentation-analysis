@@ -51,9 +51,9 @@ The analysis suggests that businesses should focus on **income-based customer se
 
 
 
-##Customer Segmentation Project using K-Means Clustering
+Customer Segmentation Project using K-Means Clustering
 
-##Overview
+Overview
 
 This project applies K-Means clustering to customer data in order to identify distinct customer segments. By grouping customers based on demographics and purchasing behavior, businesses can better understand their customer base, design targeted marketing strategies, and improve loyalty and retention.
 
@@ -64,7 +64,7 @@ The analysis focuses on three key features:
 
 ⸻
 
-##Data Overview
+Data Overview
 
 The dataset includes the following attributes:
 	•	Customer ID: Unique identifier for each customer
@@ -74,7 +74,7 @@ The dataset includes the following attributes:
 
 ⸻
 
-##Methodology
+Methodology
 	1.	Data Cleaning
 	•	Removed symbols (₹, ,).
 	•	Converted income ranges (e.g., 410000 - 655999) into midpoints.
@@ -93,7 +93,7 @@ The dataset includes the following attributes:
 
 ⸻
 
-##Results: Cluster Profiles
+Results: Cluster Profiles
 
 The K-Means clustering produced 4 distinct customer groups:
 
@@ -106,7 +106,7 @@ Cluster	  Avg Age	     Avg Income	       Avg Purchase Freq	                   Pr
 
 ⸻
 
-##Key Findings
+Key Findings
 	•	Income is not the only differentiator — customers with similar income levels show very different shopping frequencies.
 	•	Cluster 0 shows that high-income individuals do not always purchase frequently, suggesting potential for targeted upselling.
 	•	Clusters 2 & 3 highlight younger customers with strong engagement, making them critical for long-term loyalty strategies.
@@ -114,7 +114,7 @@ Cluster	  Avg Age	     Avg Income	       Avg Purchase Freq	                   Pr
 
 ⸻
 
-##Conclusion
+Conclusion
 
 The clustering analysis provides a more behavior-driven view of customers compared to a demographic-only analysis. Businesses can:
 	•	Design personalized strategies for frequent vs. occasional shoppers.
@@ -123,7 +123,7 @@ The clustering analysis provides a more behavior-driven view of customers compar
 
 ⸻
 
-##Technologies Used
+Technologies Used
 	•	Python: Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn
 	•	Excel: Initial dataset preparation
 	•	Clustering Method: K-Means

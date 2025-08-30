@@ -18,9 +18,7 @@ The dataset includes the following attributes:
 - **Purchase Frequency**: How often a customer makes a purchase (Rarely, Occasionally, Frequently, Monthly)  
 - **Average Purchase Amount**: Typical amount spent per purchase  
 - **Product Categories Purchased**: List of product categories purchased  
-- **Last Purchase Date**: Date of most recent purchase  
-- **Purchase Channel**: Channel of purchase (Online/Offline)  
-- **Preferred Payment Method**: Credit Card, Debit Card, UPI, or Cash  
+ 
 
 ---
 
